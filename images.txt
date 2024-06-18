@@ -4,4 +4,4 @@ redis:6.0.10
 mongo:4.4.7
 rabbitmq:3.8.9
 bitnami/minio:latest
-longhronshens/mycat-docker:1.6.7.4
+longhronshens/mycat-docker
