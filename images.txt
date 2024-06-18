@@ -1,2 +1,7 @@
 nginx
-mongo
+mysql:5.7
+mycat:1.6.7.4
+redis:6.0.10
+mongo:4.4.7
+rabbitmq:3.8.9
+minio
