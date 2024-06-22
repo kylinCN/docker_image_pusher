@@ -5,3 +5,4 @@ mongo:4.4.7
 rabbitmq:3.8.9
 bitnami/minio:latest
 longhronshens/mycat-docker
+jenkins
