@@ -1,8 +1,1 @@
-nginx
-mysql:5.7
-redis:6.0.10
-mongo:4.4.7
-rabbitmq:3.8.9
-bitnami/minio:latest
-longhronshens/mycat-docker
-jenkins
+jenkins/jenkins:2.446-jdk11
