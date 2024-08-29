@@ -1,1 +1,1 @@
-jenkins/jenkins:2.446-jdk11
+boostport/hbase-phoenix-all-in-one:2.0-5.0
